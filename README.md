@@ -40,6 +40,7 @@ MSc Student at Computational Physics program of Aristotle University of Thessalo
 ### HackTheBox
 
 This is my profile:
+
 ![](https://www.hackthebox.com/badge/image/554431)
 
 ### 📚 Selected Publications  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&style=for-the-badge)](https://scholar.google.com/citations?user=SPr_P3sAAAAJ)
