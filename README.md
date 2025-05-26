@@ -49,7 +49,7 @@ This is my profile:
    V. Tsioulos, V. Prassa  
    ![Journal](https://img.shields.io/badge/European_Physical_Journal_A-Physics-blue)  
    ![Year](https://img.shields.io/badge/2024-182-9FEF00)  
-   [![DOI](https://img.shields.io/badge/DOI-10.1140/epja/s10050-024-01342-2-blue)](https://doi.org/10.1140/epja/s10050-024-01342-2)
+   [![DOI](https://img.shields.io/badge/DOI-10.1140/epja/s10050-024-01342-2-blue)](https://doi.org/10.1140/epja/s10050-024-01409-0)
 
 
 2. **"A hybrid molecular dynamics/machine learning framework to calculate the viscosity and thermal conductivity of Ar, Kr, Xe, O, and Ν"**  
@@ -62,6 +62,7 @@ This is my profile:
    V. Tsioulos, V. Prassa  
    ![Conference](https://img.shields.io/badge/EPJ_Web_of_Conferences-01015-FF6B6B)  
    ![Year](https://img.shields.io/badge/2024-304-lightgrey)
+   [![DOI](https://img.shields.io/badge/DOI-10.1002/appl.202300127-blue)](https://doi.org/10.1051/epjconf/202430401015)
 
 ### Github Overview
 ![Vasilis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Burpsploit&show_icons=true&bg_color=midnight-purple)
